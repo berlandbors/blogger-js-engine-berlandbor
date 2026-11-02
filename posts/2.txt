@@ -1,3 +1,7 @@
 Пример вставки ролика с гугл диска
 
 https://drive.google.com/file/d/1XWSkWrw4BAIVoo7eGDxHXat4mIzNqyg0/preview
+
+https://drive.google.com/file/d/1PQfgJXXWxE7pOkSe6Y3z1sHoxqdZdjXn/view?usp=drivesdk
+
+https://drive.google.com/file/d/1tR9ivOcaNZQlosacXaUK4a88oYZMskPb/view?usp=drivesdk
